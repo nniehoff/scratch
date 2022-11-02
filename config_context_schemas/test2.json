@@ -1,0 +1,16 @@
+{
+    "_metadata": {
+        "name": "Config Context Schema Data2",
+        "description": "General Schema2."
+    },
+    "data_schema": {
+        "title": "data",
+        "type": "object",
+        "properties": {
+            "dns": {
+                "$ref": "dns.json"
+            }
+        },
+        "additionalProperties": false
+    }
+}
