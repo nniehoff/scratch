@@ -1,0 +1,17 @@
+{
+    "_metadata": {
+        "name": "Config Context Schema NTP",
+        "description": "NTP Schema."
+    },
+    "data_schema": {
+        "title": "ntp",
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "ipv4": {
+                "type": "string",
+                "format": "ipv4"
+            }
+        }
+    }
+}
