@@ -1,8 +1,8 @@
 {
     "_metadata": {
-        "name": "Valid NTP server",
+        "name": "Invalid NTP server",
         "weight": 1000,
-        "description": "Valid NTP Test",
+        "description": "Invalid NTP Test",
         "is_active": true,
         "schema": "Config Context Schema NTP"
     },
