@@ -1,0 +1,10 @@
+{
+    "_metadata": {
+        "name": "Valid NTP server",
+        "weight": 1000,
+        "description": "Valid NTP Test",
+        "is_active": true,
+        "schema": "Config Context Schema NTP"
+    },
+    "ipv4": "192.168.1.1"
+}
